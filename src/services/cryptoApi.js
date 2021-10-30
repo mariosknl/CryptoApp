@@ -5,7 +5,7 @@ const cryptoApiHeaders = {
   'x-rapidapi-key': 'cdf5408c2bmsh6985b0bf01716dcp17298ajsneb928ee37dc7'
 }
 
-const baseUrl = 'https://coinranking1.p.rapidapi.com/';
+const baseUrl = 'https://coinranking1.p.rapidapi.com';
 
 const createRequest = (url) => ({ url, headers: cryptoApiHeaders})
 
