@@ -5778,10 +5778,10 @@ html-minifier-terser@^5.0.1:
     relateurl "^0.2.7"
     terser "^4.6.3"
 
-html-react-parser@1.4.2:
-  version "1.4.2"
-  resolved "https://registry.npmjs.org/html-react-parser/-/html-react-parser-1.4.2.tgz"
-  integrity sha512-Q0aTOabDBm0jDf/rvge38Vh+dZhJ+8T5+Q6Z+gafQQDXt/7skbxCGr7ieol3xYU3ZYB/8F/LO5Pzcw1e85PKkw==
+html-react-parser@1.4.3:
+  version "1.4.3"
+  resolved "https://registry.npmjs.org/html-react-parser/-/html-react-parser-1.4.3.tgz"
+  integrity sha512-srOhHeBdKYS4cpX5KRNw8t+RvXTrtondOb45vA5kELEqCLk7qWRBPnyIbF6N3wHngmswR88tYEQTzNBPX1qeWw==
   dependencies:
     domhandler "4.3.0"
     html-dom-parser "1.0.4"
