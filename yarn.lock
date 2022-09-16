@@ -6025,10 +6025,10 @@ micromatch@^4.0.2, micromatch@^4.0.4:
     braces "^3.0.1"
     picomatch "^2.2.3"
 
-millify@5.0.0:
-  version "5.0.0"
-  resolved "https://registry.npmjs.org/millify/-/millify-5.0.0.tgz"
-  integrity sha512-7B0kQOz6MZw32/80hramivyRobkBmA++Xrk6Fg+1kRlm1QZRisD0D/TmSyvcpTNsFB4Fq0UD+KltfsuTgA22Ww==
+millify@5.0.1:
+  version "5.0.1"
+  resolved "https://registry.npmjs.org/millify/-/millify-5.0.1.tgz"
+  integrity sha512-1IacXjRDMbRevt2++mBnrI2iFxljWlQapMUT9Bs+uAF3o/TrYdE46Uf6CqlmoOWMX1JDAlMorXPv4/hM1eE/kw==
   dependencies:
     yargs "^17.0.1"
 
