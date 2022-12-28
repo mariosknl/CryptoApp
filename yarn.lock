@@ -4762,15 +4762,15 @@ html-minifier-terser@^6.0.2:
     relateurl "^0.2.7"
     terser "^5.10.0"
 
-html-react-parser@3.0.4:
-  version "3.0.4"
-  resolved "https://registry.npmjs.org/html-react-parser/-/html-react-parser-3.0.4.tgz"
-  integrity sha512-va68PSmC7uA6PbOEc9yuw5Mu3OHPXmFKUpkLGvUPdTuNrZ0CJZk1s/8X/FaHjswK/6uZghu2U02tJjussT8+uw==
+html-react-parser@3.0.6:
+  version "3.0.6"
+  resolved "https://registry.npmjs.org/html-react-parser/-/html-react-parser-3.0.6.tgz"
+  integrity sha512-kFh/qJkz4KJudCcILfI1hQKXTheRyMREXuL/WbWYUAsMsu0EOwV4nO5jA3ecu1LUNpCcebkNcBECxqpswBDlLw==
   dependencies:
     domhandler "5.0.3"
     html-dom-parser "3.1.2"
     react-property "2.0.0"
-    style-to-js "1.1.1"
+    style-to-js "1.1.2"
 
 html-webpack-plugin@^5.5.0:
   version "5.5.0"
@@ -7656,7 +7656,7 @@ react-app-polyfill@^3.0.0:
 
 react-chartjs-2@5.1.0:
   version "5.1.0"
-  resolved "https://registry.yarnpkg.com/react-chartjs-2/-/react-chartjs-2-5.1.0.tgz#8179f8120518c86c644f9d46aee537de7ac3449a"
+  resolved "https://registry.npmjs.org/react-chartjs-2/-/react-chartjs-2-5.1.0.tgz"
   integrity sha512-Gt76b7+p7nMQq0MvkWfUSNAzIm/TLAnAO32zIpSzrQyc9JWRbVCtq8qOzPJmfpDzPcIJ7Y9Gp5g+VdTRrGITsQ==
 
 react-dev-utils@^12.0.1:
@@ -8562,17 +8562,17 @@ style-loader@^3.3.1:
   resolved "https://registry.npmjs.org/style-loader/-/style-loader-3.3.1.tgz"
   integrity sha512-GPcQ+LDJbrcxHORTRes6Jy2sfvK2kS6hpSfI/fXhPt+spVzxF6LJ1dHLN9zIGmVaaP044YKaIatFaufENRiDoQ==
 
-style-to-js@1.1.1:
-  version "1.1.1"
-  resolved "https://registry.npmjs.org/style-to-js/-/style-to-js-1.1.1.tgz"
-  integrity sha512-RJ18Z9t2B02sYhZtfWKQq5uplVctgvjTfLWT7+Eb1zjUjIrWzX5SdlkwLGQozrqarTmEzJJ/YmdNJCUNI47elg==
+style-to-js@1.1.2:
+  version "1.1.2"
+  resolved "https://registry.npmjs.org/style-to-js/-/style-to-js-1.1.2.tgz"
+  integrity sha512-aMG8jJpEF0SCGbQFY8W8CT+EjQ9ubp35FOZG3prWkNjxW/a1bEeSod0tkWiP+6iiOCDIIrQykUDkPY5LbNF87g==
   dependencies:
-    style-to-object "0.3.0"
+    style-to-object "0.4.0"
 
-style-to-object@0.3.0:
-  version "0.3.0"
-  resolved "https://registry.npmjs.org/style-to-object/-/style-to-object-0.3.0.tgz"
-  integrity sha512-CzFnRRXhzWIdItT3OmF8SQfWyahHhjq3HwcMNCNLn+N7klOOqPjMeG/4JSu77D7ypZdGvSzvkrbyeTMizz2VrA==
+style-to-object@0.4.0:
+  version "0.4.0"
+  resolved "https://registry.npmjs.org/style-to-object/-/style-to-object-0.4.0.tgz"
+  integrity sha512-dAjq2m87tPn/TcYTeqMhXJRhu96WYWcxMFQxs3Y9jfYpq2jG+38u4tj0Lst6DOiYXmDuNxVJ2b1Z2uPC6wTEeg==
   dependencies:
     inline-style-parser "0.1.1"
 
