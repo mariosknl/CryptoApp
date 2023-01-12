@@ -3012,10 +3012,10 @@ char-regex@^2.0.0:
   resolved "https://registry.npmjs.org/char-regex/-/char-regex-2.0.1.tgz"
   integrity sha512-oSvEeo6ZUD7NepqAat3RqoucZ5SeqLJgOvVIwkafu6IP3V0pO38s/ypdVUmDDK6qIIHNlYHJAKX9E7R7HoKElw==
 
-chart.js@4.1.1:
-  version "4.1.1"
-  resolved "https://registry.npmjs.org/chart.js/-/chart.js-4.1.1.tgz"
-  integrity sha512-P0pCosNXp+LR8zO/QTkZKT6Hb7p0DPFtypEeVOf+6x06hX13NIb75R0DXUA4Ksx/+48chDQKtCCmRCviQRTqsA==
+chart.js@4.1.2:
+  version "4.1.2"
+  resolved "https://registry.npmjs.org/chart.js/-/chart.js-4.1.2.tgz"
+  integrity sha512-9L1w6WLPq6ztiWVVOYtDtpo0CUsBKDWPrUEdwChAyzczaikqeSwNKEv3QpJ7EO4ICcLSi6UDVhgvcnUhRJidRA==
   dependencies:
     "@kurkle/color" "^0.3.0"
 
