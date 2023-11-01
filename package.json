@@ -11,7 +11,7 @@
     "antd": "5.10.2",
     "axios": "1.5.0",
     "chart.js": "4.4.0",
-    "html-react-parser": "3.0.16",
+    "html-react-parser": "5.0.4",
     "millify": "6.1.0",
     "moment": "2.29.4",
     "react": "18.2.0",
