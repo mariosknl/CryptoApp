@@ -5,7 +5,7 @@
   "dependencies": {
     "@ant-design/icons": "5.2.6",
     "@reduxjs/toolkit": "2.1.0",
-    "@testing-library/jest-dom": "6.3.0",
+    "@testing-library/jest-dom": "6.4.1",
     "@testing-library/react": "14.1.2",
     "@testing-library/user-event": "14.5.2",
     "antd": "5.13.2",
