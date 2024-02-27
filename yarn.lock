@@ -1987,7 +1987,7 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react@*", "@types/react@17 || 18":
+"@types/react@*":
   version "18.2.43"
   resolved "https://registry.npmjs.org/@types/react/-/react-18.2.43.tgz"
   integrity sha512-nvOV01ZdBdd/KW6FahSbcNplt2jCJfyWdTos61RYHV+FVv5L/g9AOX1bmbVcWcLFL8+KHQfh1zVIQrud6ihyQA==
@@ -4782,12 +4782,11 @@ html-minifier-terser@^6.0.2:
     relateurl "^0.2.7"
     terser "^5.10.0"
 
-html-react-parser@5.1.7:
-  version "5.1.7"
-  resolved "https://registry.npmjs.org/html-react-parser/-/html-react-parser-5.1.7.tgz"
-  integrity sha512-clDscCPYxpZbKLAXJVw3DIiuklZejb5ChK+yXMaA7KKuc0c74ep8jY40pUvMo2WnUU7GB3/hAike/ZAfQ+Ybkw==
+html-react-parser@5.1.8:
+  version "5.1.8"
+  resolved "https://registry.npmjs.org/html-react-parser/-/html-react-parser-5.1.8.tgz"
+  integrity sha512-oAXgUB4JYHFg4le3RQZtoge1TGMkwXSZPiWiexwdx3AuldgG+QEvbwMrscSViu90JNje3V4Zq5gCUSoTxa0W0A==
   dependencies:
-    "@types/react" "17 || 18"
     domhandler "5.0.3"
     html-dom-parser "5.0.8"
     react-property "2.0.2"
