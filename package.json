@@ -8,7 +8,7 @@
     "@testing-library/jest-dom": "6.4.2",
     "@testing-library/react": "15.0.4",
     "@testing-library/user-event": "14.5.2",
-    "antd": "5.16.4",
+    "antd": "5.17.0",
     "axios": "1.6.8",
     "chart.js": "4.4.2",
     "html-react-parser": "5.1.10",
