@@ -10,7 +10,7 @@
     "@testing-library/user-event": "14.6.1",
     "antd": "5.24.9",
     "axios": "1.8.4",
-    "chart.js": "4.4.8",
+    "chart.js": "4.4.9",
     "html-react-parser": "5.2.3",
     "millify": "6.1.0",
     "moment": "2.30.1",
